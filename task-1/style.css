@@ -1,0 +1,31 @@
+#textList {
+    margin: 20px auto;
+    width: 300px;
+    background: lightgrey;
+    opacity: 0.9;
+    border-radius: 15px;
+    box-shadow: 0 0 10px black;
+}
+li {
+    text-align: left;
+    line-height: 2.0;
+    cursor: pointer;
+    font-size: 22px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+li:hover{
+    background: lightseagreen;
+    border-radius: 10px;
+}
+
+
+h1{
+    margin-top: 20px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+
+}
